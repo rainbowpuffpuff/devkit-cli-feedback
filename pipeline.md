@@ -1,5 +1,3 @@
-Of course. Here is your log and code formatted as a clean, structured Markdown error report. This format is ideal for submitting as a GitHub issue or for sharing with a support team.
-
 ***
 
 # Bug Report: `devkit avs run` Fails After Modifying `main.go`
