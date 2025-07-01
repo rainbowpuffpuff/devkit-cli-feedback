@@ -1,4 +1,10 @@
-# devkit-cli-feedback
+# DevKit CLI Feedback
 
-pipeline.md contains the process and the error logs I faced (did not reproduce yet)
-feedback.md contains my suggestions for the main readme.me of the devkit-cli repo
+This repository contains feedback and error documentation related to the EigenLayer DevKit CLI, based on a recent development session.
+
+## Contents
+
+*   **`pipeline.md`**: This file documents the step-by-step process followed, which led to a runtime error. It includes the full error logs from the initial attempt.
+    *   *Note: The error has not yet been successfully reproduced.*
+
+*   **`feedback.md`**: This file contains specific, actionable suggestions for improving the main `README.md` in the `Layr-Labs/devkit-cli` repository, aimed at enhancing the new user experience.
